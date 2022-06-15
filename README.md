@@ -7,4 +7,4 @@ Still in Development Stage
 # Insallation 
 - clone the Repo 
 - Open the Arduino 
-- Select the too
+- Select the tool
