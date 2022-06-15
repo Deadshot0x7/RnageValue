@@ -11,7 +11,7 @@ class Rnagrvalue
                  case 1 :
                  for(int j =0 ; j<=n ; j++ )
                  {
-                    
+                        ci>>j;
                  } 
    
         } catch (const std::exception& e) {
