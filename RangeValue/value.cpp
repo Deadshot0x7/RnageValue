@@ -17,7 +17,7 @@ class Rnagrvalue
             case 2:
                 for (int j=0 j<=n; j++)
                 {
-                    if
+                    if( )
                 }
             
         } catch (const std::exception& e) {
