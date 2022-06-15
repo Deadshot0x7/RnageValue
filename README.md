@@ -7,4 +7,4 @@ Still in Development Stage
 #insallation 
 - clone the Repo 
 - Open the Arduino 
-- Select
+- Select t
