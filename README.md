@@ -8,4 +8,4 @@ Still in Development Stage
 - clone the Repo 
 - Open the Arduino 
 - Select the tool
-- Select the libr
+- Select the libra
