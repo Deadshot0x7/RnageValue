@@ -4,7 +4,7 @@ RangeValue is an Arduino Librabry to Set range of value
 # version 
 Still in Development Stage
 
-#insallation 
+# insallation 
 - clone the Repo 
 - Open the Arduino 
 - Select the too
