@@ -14,7 +14,8 @@ class Rnagrvalue
                         ci>>j;
                  } 
                  break
-   
+            case 2:
+            
         } catch (const std::exception& e) {
      std::cout << e.what(); // information from error printed
 }
