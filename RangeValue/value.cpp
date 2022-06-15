@@ -18,12 +18,18 @@ class Rnagrvalue
                 for (int j=0 j<=n; j++)
                 {
                     if( n || j )
+                    {
+
+                    }
                 }
                 break
             case 3:
                 for (int j=0 j<=n; j++)
                 {
                     if( n && j )
+                    {
+                        
+                    }
                 }
                 break
         } catch (const std::exception& e) {
