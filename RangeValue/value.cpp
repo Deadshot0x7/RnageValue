@@ -9,7 +9,10 @@ class Rnagrvalue
         {
             try {
                  case 1 :
-                 for(int) 
+                 for(int j =0 ; j<=n ; j++ )
+                 {
+                    
+                 } 
    
         } catch (const std::exception& e) {
      std::cout << e.what(); // information from error printed
