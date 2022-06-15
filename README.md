@@ -9,4 +9,5 @@ Still in Development Stage
 - Open the Arduino 
 - Select the tool
 - Select the library option
+- Select the zip file
 
