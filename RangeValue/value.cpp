@@ -19,7 +19,7 @@ class Rnagrvalue
                 {
                     if( n || j )
                     {
-
+                            cout<<"Im";
                     }
                 }
                 break
