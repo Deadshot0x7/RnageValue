@@ -19,8 +19,9 @@ The primary purpose of the "RangeValue" library would be to simplify the process
 - It might also offer error handling or warnings if values being constrained are consistently at the extremes, indicating potential issues with the sensors or logic.
 
 # version 
-Version 1.o
-
+Version 1.0
+# Like 
+Give our repository a little love! 🌟 Click that star button to show your appreciation. Your support means the world to us! 🚀💖
 # Insallation 
 - clone the Repo 
 - Open the Arduino 
