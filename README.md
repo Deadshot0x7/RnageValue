@@ -20,12 +20,13 @@ The primary purpose of the "RangeValue" library would be to simplify the process
 
 # version 
 Version 1.0
-# Like 
-Give our repository a little love! 🌟 Click that star button to show your appreciation. Your support means the world to us! 🚀💖
-# Insallation 
+# Installation 
 - clone the Repo 
 - Open the Arduino 
 - Select the tool
 - Select the library option
 - Select the zip file
 - upload  the select zip file in the library 
+
+# Like 
+Give our repository a little love! 🌟 Click that star button to show your appreciation. Your support means the world to us! 🚀💖
